@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Insurance Policy App</string>
+    <string name="title_activity_update_profile">UpdateProfile</string>
+    <string name="title_activity_providers_home">ProvidersHome</string>
+
+    <string-array name="Main">
+        <item> Property </item>
+        <item> Vehicle </item>
+        <item> Life </item>
+        <item> Health </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> Building, Contents, All Risks... </item>
+        <item> Cars, Trucks, Motorcycles... </item>
+        <item> Description L </item>
+        <item> Description H </item>
+    </string-array>
+
+    <string-array name="InsuranceProviders">
+        <item>InsuranceProvider1</item>
+        <item>InsuranceProvider2</item>
+        <item>APA</item>
+        <item>Jubilee</item>
+        <item>Heritage</item>
+        <item>PanAfrica</item>
+
+    </string-array>
+</resources>

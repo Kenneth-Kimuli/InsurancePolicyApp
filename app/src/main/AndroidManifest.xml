@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ipa.www.insuracepolicyapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LogIn">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignUp" />
+        <activity android:name=".Home" />
+        <activity android:name=".PasswordReset" />
+        <activity android:name=".Profile" />
+        <activity android:name=".UpdateProfile" />
+        <activity android:name=".Changepassword" />
+        <activity android:name=".ProvidersHome" />
+        <activity android:name=".InsuranceProviders" />
+        <activity android:name=".InsuranceProvidersVehicle" />
+        <activity android:name=".PolicyDataSave" />
+        <activity android:name=".PolicyDataRetrivalIPPS1Property" />
+        <activity android:name=".PolicyDataRetrivalIPPS1Vehicle" />
+        <activity android:name=".Checkout" />
+        <activity android:name=".PolicyDataUpdateIPPS1" />
+        <activity android:name=".PolicyDataDeleteIPPS1"></activity>
+    </application>
+
+</manifest>

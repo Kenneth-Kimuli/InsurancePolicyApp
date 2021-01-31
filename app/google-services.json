@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225976949026",
+    "firebase_url": "https://insurancepolicyapp.firebaseio.com",
+    "project_id": "insurancepolicyapp",
+    "storage_bucket": "insurancepolicyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225976949026:android:40f089033ca67735",
+        "android_client_info": {
+          "package_name": "com.ipa.www.insuracepolicyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225976949026-lpdtvp6701k7h0rbpbaf4frfd1pfvob4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ipa.www.insuracepolicyapp",
+            "certificate_hash": "7a5263e1c8dbfec8e7d500cf35a9ef1d3b4d2349"
+          }
+        },
+        {
+          "client_id": "225976949026-7de19md2je9cgipkh2qo8b1qvcn1gnjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsYTvzGy_fMQFPMmwmMz2mh5NEzI-VEAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225976949026-7de19md2je9cgipkh2qo8b1qvcn1gnjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
